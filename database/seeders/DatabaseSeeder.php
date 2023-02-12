@@ -2,7 +2,6 @@
 
 namespace Database\Seeders;
 
-// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Domains\Catalog\Models\Variant;
 use Domains\Customer\Models\Address;
 use Domains\Customer\Models\Cart;

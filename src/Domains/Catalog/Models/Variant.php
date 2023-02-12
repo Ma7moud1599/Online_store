@@ -14,7 +14,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 use JustSteveKing\KeyFactory\Models\Concerns\HasKey;
 
-class Variant extends Model
+class  Variant extends Model
 {
     use HasKey;
     use HasFactory;
