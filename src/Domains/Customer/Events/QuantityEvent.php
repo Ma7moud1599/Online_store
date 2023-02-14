@@ -12,5 +12,6 @@ abstract class QuantityEvent extends ShouldBeStored
         public int $cartID,
         public int $cartItemID,
         public int $quantity,
-    ) {}
+    ) {
+    }
 }

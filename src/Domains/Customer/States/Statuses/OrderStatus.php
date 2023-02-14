@@ -12,4 +12,6 @@ use Spatie\Enum\Laravel\Enum;
  * @method static self refunded()
  * @method static self cancelled()
  */
-final class OrderStatus extends Enum {}
+final class OrderStatus extends Enum
+{
+}
